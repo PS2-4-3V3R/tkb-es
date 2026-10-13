@@ -39,7 +39,9 @@ Si deseas modificar esta distribución de teclado, añadir nuevos atajos o adapt
 
 ## ⌨️ Referencia de Teclas (Alfabeto Griego)
 
-Aquí una guía rápida de algunas correspondencias utilizando la combinación **AltGr** (o `Ctrl + Alt`) [^1]:
+La asignación y correspondencia de las letras griegas está basada en la distribución estándar de **Symbol** (donde las raíces fonéticas coinciden con el teclado QWERTY tradicional, por ejemplo: `A` ➡️ `α`, `B` ➡️ `β`, `G` ➡️ `γ`). 
+
+Se activan utilizando la combinación **AltGr** (o `Ctrl + Alt`):
 
 | Tecla base | Combinación | Minúscula | Mayúscula (+Shift) |
 | :---: | :---: | :---: | :---: |
