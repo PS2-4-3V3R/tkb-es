@@ -24,7 +24,35 @@ Si prefieres realizar una instalación manual o desplegar el paquete en tu organ
 
 ⚠️ **Nota importante:** Algunas de las nuevas combinaciones (especialmente las de `Ctrl+Shift`) pueden entrar en conflicto con atajos de teclado de ciertos programas. Se recomienda mantener instalada la distribución en español por defecto junto a TKB-ES para poder alternar entre ambas si es necesario.
 
-<hr>
+---
+---
+
+## 🛠️ Personalización y Modificación
+
+Si deseas modificar esta distribución de teclado, añadir nuevos atajos o adaptarla a tus necesidades personales, puedes hacerlo fácilmente:
+
+1. Descarga e instala el programa oficial **[Microsoft Keyboard Layout Creator (MSKLC)](https://microsoft.com)**.
+2. Descarga el archivo **`TKB-ES.klc`** que se encuentra en la raíz de este repositorio.
+3. Abre MSKLC, ve a `File -> Load Source...` y selecciona el archivo `.klc`.
+4. Realiza las modificaciones que quieras y genera tu propio instalador desde `Project -> Build DLL and Setup Package`.
+
+---
+
+## ⌨️ Referencia de Teclas (Alfabeto Griego)
+
+Aquí una guía rápida de algunas correspondencias utilizando la combinación **AltGr** (o `Ctrl + Alt`) [^1]:
+
+| Tecla base | Combinación | Minúscula | Mayúscula (+Shift) |
+| :---: | :---: | :---: | :---: |
+| **A** | AltGr + A | α _(Alpha)_ | Α |
+| **B** | AltGr + B | β _(Beta)_ | Β |
+| **G** | AltGr + G | γ _(Gamma)_ | Γ |
+| **D** | AltGr + D | δ _(Delta)_ | Δ |
+| **E** | AltGr + E | ε _(Epsilon)_ | Ε |
+
+*Nota: Mapa completo de caracteres y el resto de símbolos técnicos en las imágenes de las distribuciones en la sección inferior.*
+
+---
 
 Normal
 
