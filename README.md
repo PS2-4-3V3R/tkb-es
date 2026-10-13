@@ -30,7 +30,7 @@ Si prefieres realizar una instalación manual o desplegar el paquete en tu organ
 
 Si deseas modificar esta distribución de teclado, añadir nuevos atajos o adaptarla a tus necesidades personales, puedes hacerlo fácilmente:
 
-1. Descarga e instala el programa oficial **[Microsoft Keyboard Layout Creator (MSKLC)]([https://microsoft.com](https://www.microsoft.com/en-us/download/details.aspx?id=102134))**.
+1. Descarga e instala el programa oficial **[Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134)**.
 2. Descarga el archivo **`TKB-ES.klc`** que se encuentra en la raíz de este repositorio.
 3. Abre MSKLC, ve a `File -> Load Source...` y selecciona el archivo `.klc`.
 4. Realiza las modificaciones que quieras y genera tu propio instalador desde `Project -> Build DLL and Setup Package`.
