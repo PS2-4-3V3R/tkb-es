@@ -1,6 +1,29 @@
-TKB-ES (Tecnical KeyBoard Español) Esta basado en la distribución Español (España) por defecto pero añade más combinaciones principalmente con AltGr.
+# TKB-ES (Technical KeyBoard Español) v1.0.3
 
-Importante tener en cuenta que estas combinaciones se suelen usar como atajos de teclado en algunos programas, especialmente las combinaciones de Ctrl+Shift, por lo que es buena idea tener TKB-ES instalado a la par de la distribución que use.
+Distribución de teclado basada en **Español (España)** que añade nuevas combinaciones de teclas principalmente mediante **AltGr** y **Ctrl+Shift**, ideal para programadores, administradores de sistemas y usuarios técnicos.
+
+---
+
+## 🚀 Instrucciones de Instalación (Recomendado)
+
+Para la mayoría de los usuarios, la instalación es automática:
+
+1. Descarga y extrae el archivo **`tkb-es.rar`** de la release.
+2. Haz doble clic sobre **`setup.exe`**. 
+3. El asistente detectará automáticamente la arquitectura de tu ordenador e instalará la versión correcta.
+
+---
+
+## 📦 Paquetes por Arquitectura (Instalación Manual)
+
+Si prefieres realizar una instalación manual o desplegar el paquete en tu organización, utiliza el archivo `.msi` correspondiente a tu sistema:
+
+* **`TKB-ES_amd64.msi`** ➡️ Para Windows de **64 bits (x64)** *(La mayoría de ordenadores modernos con Intel o AMD)*.
+* **`TKB-ES_i386.msi`** ➡️ Para Windows de **32 bits (x86)**.
+* **`TKB-ES_ia64.msi`** ➡️ Para sistemas con arquitectura Intel Itanium.
+
+⚠️ **Nota importante:** Algunas de las nuevas combinaciones (especialmente las de `Ctrl+Shift`) pueden entrar en conflicto con atajos de teclado de ciertos programas. Se recomienda mantener instalada la distribución en español por defecto junto a TKB-ES para poder alternar entre ambas si es necesario.
+
 <hr>
 
 Normal
