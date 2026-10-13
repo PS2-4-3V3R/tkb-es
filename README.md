@@ -25,7 +25,6 @@ Si prefieres realizar una instalación manual o desplegar el paquete en tu organ
 ⚠️ **Nota importante:** Algunas de las nuevas combinaciones (especialmente las de `Ctrl+Shift`) pueden entrar en conflicto con atajos de teclado de ciertos programas. Se recomienda mantener instalada la distribución en español por defecto junto a TKB-ES para poder alternar entre ambas si es necesario.
 
 ---
----
 
 ## 🛠️ Personalización y Modificación
 
